@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ali\\Desktop\\.NET\\API-Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D366355F-8394-4733-8478-C5EA2417233C}|API-Task\\API-Task.csproj|c:\\users\\ali\\desktop\\.net\\api-task\\api-task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D366355F-8394-4733-8478-C5EA2417233C}|API-Task\\API-Task.csproj|solutionrelative:api-task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D366355F-8394-4733-8478-C5EA2417233C}|API-Task\\API-Task.csproj|c:\\users\\ali\\desktop\\.net\\api-task\\api-task\\controllers\\tasksmodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D366355F-8394-4733-8478-C5EA2417233C}|API-Task\\API-Task.csproj|solutionrelative:api-task\\controllers\\tasksmodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D366355F-8394-4733-8478-C5EA2417233C}|API-Task\\API-Task.csproj|c:\\users\\ali\\desktop\\.net\\api-task\\api-task\\models\\tasksmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D366355F-8394-4733-8478-C5EA2417233C}|API-Task\\API-Task.csproj|solutionrelative:api-task\\models\\tasksmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D366355F-8394-4733-8478-C5EA2417233C}|API-Task\\API-Task.csproj|c:\\users\\ali\\desktop\\.net\\api-task\\api-task\\models\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D366355F-8394-4733-8478-C5EA2417233C}|API-Task\\API-Task.csproj|solutionrelative:api-task\\models\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D366355F-8394-4733-8478-C5EA2417233C}|API-Task\\API-Task.csproj|c:\\users\\ali\\desktop\\.net\\api-task\\api-task\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D366355F-8394-4733-8478-C5EA2417233C}|API-Task\\API-Task.csproj|solutionrelative:api-task\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TasksModelsController.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\.NET\\API-Task\\API-Task\\Controllers\\TasksModelsController.cs",
+              "RelativeDocumentMoniker": "API-Task\\Controllers\\TasksModelsController.cs",
+              "ToolTip": "C:\\Users\\Ali\\Desktop\\.NET\\API-Task\\API-Task\\Controllers\\TasksModelsController.cs",
+              "RelativeToolTip": "API-Task\\Controllers\\TasksModelsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T19:36:32.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\.NET\\API-Task\\API-Task\\Models\\TaskContext.cs",
+              "RelativeDocumentMoniker": "API-Task\\Models\\TaskContext.cs",
+              "ToolTip": "C:\\Users\\Ali\\Desktop\\.NET\\API-Task\\API-Task\\Models\\TaskContext.cs",
+              "RelativeToolTip": "API-Task\\Models\\TaskContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAADzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T19:17:26.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\.NET\\API-Task\\API-Task\\Program.cs",
+              "RelativeDocumentMoniker": "API-Task\\Program.cs",
+              "ToolTip": "C:\\Users\\Ali\\Desktop\\.NET\\API-Task\\API-Task\\Program.cs",
+              "RelativeToolTip": "API-Task\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T19:15:31.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\.NET\\API-Task\\API-Task\\appsettings.json",
+              "RelativeDocumentMoniker": "API-Task\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ali\\Desktop\\.NET\\API-Task\\API-Task\\appsettings.json",
+              "RelativeToolTip": "API-Task\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-25T19:13:07.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TasksModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\.NET\\API-Task\\API-Task\\Models\\TasksModel.cs",
+              "RelativeDocumentMoniker": "API-Task\\Models\\TasksModel.cs",
+              "ToolTip": "C:\\Users\\Ali\\Desktop\\.NET\\API-Task\\API-Task\\Models\\TasksModel.cs",
+              "RelativeToolTip": "API-Task\\Models\\TasksModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T19:11:48.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
